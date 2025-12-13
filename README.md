@@ -1,4 +1,5 @@
 # Cursor Agents Tutorial
+This repository is used to practice safe, agent-assisted development workflows.
 
 Sandbox repository for learning and testing Cursor agent workflows.
 
