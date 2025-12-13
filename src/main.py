@@ -3,7 +3,7 @@ This script demonstrates the starting point for using Cursor agents.
 It provides a simple structure for running agent-based workflows.
 """
 
-from utils import get_greeting
+from .utils import get_greeting
 
 def main():
     """
